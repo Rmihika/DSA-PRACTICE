@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std; // 370
+using namespace std;
 int main()
 {
     int num, digit, sum = 0, original;
