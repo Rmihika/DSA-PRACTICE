@@ -12,7 +12,8 @@ int main()
 
         if (arr[i] == target)
         {
-            found == true;
+            found = true;
+            break;
         }
     }
     if (found)
